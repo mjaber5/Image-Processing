@@ -1,0 +1,5 @@
+image-processing
+pillow
+opencv-python
+numpy 
+streamlit
